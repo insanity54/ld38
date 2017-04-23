@@ -1,0 +1,22 @@
+{
+  "name": "ld38",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insanity54/ld38.git"
+  },
+  "keywords": [
+    "ludem"
+  ],
+  "author": "Chris Grimmett <chris@grimtech.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insanity54/ld38/issues"
+  },
+  "homepage": "https://github.com/insanity54/ld38#readme"
+}
